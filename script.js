@@ -4,7 +4,9 @@ const elts = {
 };
 
 const texts = [
-    "Uxlamasdan",
+    "Uxlab",
+    "qomaganz",
+    "va",
     "kutganiz",
     "uchun",
     "rahmat",
