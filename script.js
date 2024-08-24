@@ -4,34 +4,13 @@ const elts = {
 };
 
 const texts = [
-    "Uxlab",
-    "qomaganz",
-    "va",
-    "kutganiz",
-    "uchun",
-    "rahmat",
-    "men",
-    "aldagan",
-    "edim",
-    ":)",
-    "maqsad",
-    "vaqtizni",
-    "olish",
-    "edi",
-    "🤣",
-    "sog'",
-    "bo'lasiz",
-    "😁",
-    "yana",
-    "aldadim",
-    ":D",
-    "yaxshi",
-    "dam",
-    "oling",
-    "bopti",
-    "ertak",
-    "tamom",
-    "🌹"
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "Six",
+    "Seven",
 ];
 
 const morphTime = 1;
